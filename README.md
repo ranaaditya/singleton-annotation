@@ -1,2 +1,2 @@
 # singleton-annotation
-Building annotations in kotlin from scratch
+Building Simple Singleton annotation for android / JVM
